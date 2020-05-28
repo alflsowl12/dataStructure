@@ -1,0 +1,13 @@
+Tree visualization is in the console
+7 10 22 25 35 57 63 81 87 92 100 154 200 210 247 275 321 724 
+(200 :  "cherry")(87 :  "chocolate")(247 :  "rescue")(63 :  "ohmy")(100 :  "cake")(210 :  "mango")(275 :  "blueberry")(57 :  "strawberry")(81 :  "wow")(92 :  "meat")(154 :  "watermelon")(321 :  "homework")(22 :  "help")(724 :  "tomato")(10 :  "melon")(35 :  "potato")(7 :  "pineapple")(25 :  "banana")
+7
+ "cake"
+Tree visualization is in the console
+7 10 22 25 57 63 81 87 92 100 154 200 210 220 247 275 321 724 
+(220 : "lime")(210 : "carrot")(247 :  "rescue")(87 :  "chocolate")(275 :  "blueberry")(22 :  "help")(200 :  "cherry")(321 :  "homework")(10 :  "melon")(57 :  "strawberry")(100 :  "cake")(724 :  "tomato")(7 :  "pineapple")(25 :  "banana")(63 :  "ohmy")(92 :  "meat")(154 :  "watermelon")(81 :  "wow")
+7
+ "cherry"
+Tree visualization is in the console
+22 25 57 63 81 87 92 100 154 200 210 220 247 275 321 
+(321 :  "homework")(22 :  "help")(200 :  "cherry")(87 :  "chocolate")(210 : "carrot")(57 :  "strawberry")(100 :  "cake")(220 : "lime")(25 :  "banana")(63 :  "ohmy")(92 :  "meat")(154 :  "watermelon")(247 :  "rescue")(81 :  "wow")(275 :  "blueberry")
